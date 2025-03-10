@@ -1,5 +1,5 @@
 <div id = "header" align = "center">
-  <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BkOXZ5cXliMHp1MTVndG9pcGl5YTVyY2Jqc3B6NW4yODNwZWlkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width = "100">
+  <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BkOXZ5cXliMHp1MTVndG9pcGl5YTVyY2Jqc3B6NW4yODNwZWlkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width = "200">
 
 
  <div id="badges" align>
@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-:telescope: I’m working as a Javascript Developer and developing and supporting company's internal projects.
+:telescope: I’m working as a Javascript Developer - developing and supporting company's internal projects.
 
 :seedling:  Strivng for development, not afraid taking on new tasks and quickly master unfamiliar topics.
 
