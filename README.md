@@ -47,5 +47,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexanderMenshikoff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlexanderMenshikoff&theme=transparent)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMenshikoff&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
